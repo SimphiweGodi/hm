@@ -392,7 +392,7 @@ section{
 
 /* about */
 .about{
-    background-image: linear-gradient(rgba(27, 188, 156, 0.8), rgba(27, 188, 156, 0.9)), url(../assets/h.jpg);
+    background-image: linear-gradient(rgba(27, 188, 156, 0.8), rgba(27, 188, 156, 0.9)), url(../assets/path14410.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -511,15 +511,6 @@ section{
 .footer-links a:hover{
     background: var(--mount-meadow);
 }
-
-
-
-
-
-
-
-
-
 
 
 /* #### Media Queries #### */
